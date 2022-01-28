@@ -1,33 +1,33 @@
 # test to the new branch
 
->> linux basics
->> GIT  
->> maven and gradle 
->> Jenkins 
->> Ansible (check ansible tower)
->> Docker 
->> Terraform <<<<<   
-           >> terraform cloud
+- linux basics
+- GIT  
+- maven and gradle 
+- Jenkins 
+- Ansible (check ansible tower)
+Docker 
+Terraform    
+terraform cloud
 
->> DB - MongoDB
->> agile jira rally etc......
->> Monitoring tools ( splunk )
+DB - MongoDB
+agile jira rally etc......
+Monitoring tools ( splunk )
 =============================
->> Python and shell scripting 
->> aws cli - s3
->> aws tolkit vscode
-- apache httpd tomcat
+Python and shell scripting 
+aws cli - s3
+aws tolkit vscode
+apache httpd tomcat
 ********************************************************
-- basics on kubernetes
+basics on kubernetes
 jfrog
->> nexus sonarqube>>>
->> Python SDK // AWS ///// flask
->> vagrant
->> Pulimi
->> kafka
->> subnetting, tcp udp wireshark
->> k8 resources in acc teams channel
->>> promethus grafana ELK
+nexus sonarqube>>>
+Python SDK // AWS ///// flask
+vagrant
+Pulimi
+kafka
+subnetting, tcp udp wireshark
+k8 resources in acc teams channel
+promethus grafana ELK
 
 ***** web 3.0 / crypto // /************
 
